@@ -63,8 +63,6 @@ Os nomes das branches e as regras de integração devem respeitar as convençõe
 
 Explore os repositórios da organização para conhecer nossas iniciativas, acompanhar o desenvolvimento e descobrir oportunidades de colaboração.
 
-🔗 "Acessar todos os repositórios da LTD-Parangaba" (https://github.com/orgs/LTD-Parangaba/repositories)
-
 Cada projeto pode possuir seus próprios requisitos, tecnologias, instruções de instalação e critérios de contribuição. Consulte o "README.md" do repositório desejado antes de começar.
 
 👥 Como colaborar
@@ -97,6 +95,4 @@ Acreditamos no potencial da tecnologia para resolver problemas, conectar pessoas
 
 Cada projeto é uma oportunidade de aprender, compartilhar conhecimento e desenvolver soluções melhores.
 
-LTD-Parangaba — aprendendo juntos, desenvolvendo soluções e transformando ideias em tecnologia.
-
-🔗 "GitHub da organização" (https://github.com/LTD-Parangaba)
+LTD Parangaba — aprendendo juntos, desenvolvendo soluções e transformando ideias em tecnologia.
